@@ -1,0 +1,85 @@
+#skills {
+    background-color: rgb(28,87,167);
+    color: white;
+    padding: 30px;
+}
+.heading {
+    text-align: center;
+    color: rgb(28,87,167);
+    margin-bottom: 20px;
+}
+.headingWhite {
+    color: white;
+    text-align: center;
+}
+.content {
+    margin-top: 40px;
+}
+.jumbotron {
+    padding-left: 50px;    
+    color: black;
+    background-color: lightblue;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#logo {
+    
+    margin-bottom: 10px;
+}
+.container {
+    max-width: 800px;
+    padding: 20px;
+    /* background-color: rgb(255,255,255,.5); */
+}
+.about {  
+    margin-top: 0;
+}
+.school {
+    width: 50%;
+    margin-bottom: 10px;
+}
+.school2 {
+    width: 45%;
+    margin-bottom: 10px;
+}
+#education {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+#schoolDiv {
+    margin-bottom: 30px;
+}
+hr {
+    background-color: white;
+    border: 1px solid white;    
+}
+.example {
+    width: 50%;
+    float: left;
+    margin-right: 40px;
+}
+.card-header {
+    background-color: lightblue;
+    color: white;
+}
+.btn-link {
+    color: black;
+}
+.btn-link:hover {
+    color:white;
+}
+footer {
+    background-color: rgb(28,87,167);
+    padding: 10px 0px 10px 10px;
+    color: white;
+    line-height: 6px;
+}
+footer a {
+    color:black;
+}
+footer a:hover {
+    color: white;
+}
+
+
